@@ -6,3 +6,4 @@ git is very good
 git tracks changes
 i love github
 creating a new branch is quick
+creating a new branch is quick and simple
